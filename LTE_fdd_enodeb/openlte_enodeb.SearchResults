@@ -1,0 +1,6 @@
+---- bch_channel_encode Matches (5 in 1 files) ----
+Liblte_phy.cc (d:\openlte-master\liblte\src):    Name: bch_channel_encode
+Liblte_phy.cc (d:\openlte-master\liblte\src):void bch_channel_encode(LIBLTE_PHY_STRUCT *phy_struct,
+Liblte_phy.cc (d:\openlte-master\liblte\src):            bch_channel_encode(phy_struct,
+Liblte_phy.cc (d:\openlte-master\liblte\src):    Name: bch_channel_encode
+Liblte_phy.cc (d:\openlte-master\liblte\src):void bch_channel_encode(LIBLTE_PHY_STRUCT *phy_struct,
